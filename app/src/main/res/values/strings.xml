@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="name_edit_text">Name</string>
+    <string name="topping_text_view">Topping</string>
+    <string name="whipped_cream_check_box">Whipped cream</string>
+    <string name="chocolate_check_box">Chocolate</string>
+    <string name="quantity_text_view">Quantity</string>
+    <string name="price_text_view">Price</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="summary_text_view">Total: $7</string>
+    <string name="order_button">Order</string>
+
+    <string name="name">Name:</string>
+    <string name="cupsOfCoffee"> cups of coffee</string>
+    <string name="withWhipped">With Whipped cream</string>
+    <string name="withWhippednChocolate">With Whipped cream and Chocolate</string>
+    <string name="withChocolate">With Chocolate</string>
+    <string name="total">Total:</string>
+    <string name="thankYou">Thank you, Order NOW!</string>
+    <string name="coffeeOrder">Coffee Order</string>
+
+    <string name="incrementToast">you can\'t order more than 10 cups at a time</string>
+    <string name="decrementToast">you can\'t order less than 1 cup!</string>
+    <string name="nameWarning">you forgot to type in your name!</string>
+    <string name="nameError">you have to provide your name to make the order</string>
+</resources>

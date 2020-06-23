@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="name_edit_text">الاسم</string>
+    <string name="topping_text_view">إضافات</string>
+    <string name="whipped_cream_check_box">كريمة مخفوقة</string>
+    <string name="chocolate_check_box">شوكولاتة</string>
+    <string name="quantity_text_view">العدد</string>
+    <string name="price_text_view">السعر</string>
+    <string name="calculate_button">احسب</string>
+    <string name="summary_text_view">المجموع: 7$</string>
+    <string name="order_button">اطلب</string>
+
+    <string name="name">الاسم:</string>
+    <string name="cupsOfCoffee">أكواب من القهوة</string>
+    <string name="withWhipped">مع الكريمة المخفوقة</string>
+    <string name="withWhippednChocolate">مع الكريمة المخفوقة والشوكولاتة</string>
+    <string name="withChocolate">مع الشوكولاتة</string>
+    <string name="total">المجموع:</string>
+    <string name="thankYou">شكراً لك، اطلب الآن!</string>
+    <string name="coffeeOrder">طلب قهوة</string>
+</resources>
